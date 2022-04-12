@@ -1,8 +1,13 @@
 {
   "dependencies": {
+    "axios": "^0.26.1",
+    "bootstrap": "^5.1.3",
     "ejs": "^3.1.6",
     "express": "^4.17.3",
-    "mariadb": "^3.0.0"
+    "mariadb": "^3.0.0",
+    "md5": "^2.3.0",
+    "react-router-dom": "^6.3.0",
+    "universal-cookie": "^4.0.4"
   },
   "name": "desarrolloweb2653",
   "description": "Repositorio creado para la asignatura de Desarrollo Web",
