@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "mariadb": "^3.0.0"
+  },
+  "name": "desarrolloweb2653",
+  "description": "Repositorio creado para la asignatura de Desarrollo Web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldozpd/desarrolloWeb2653.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aldozpd/desarrolloWeb2653/issues"
+  },
+  "homepage": "https://github.com/aldozpd/desarrolloWeb2653#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
