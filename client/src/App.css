@@ -1,0 +1,66 @@
+
+.orient{
+  text-align: left;
+  color: white;
+}
+.button-denuncia{
+  background-color: #572364;
+  border-radius: 2px;
+  color:white;
+  border: white solid;
+  font-size: 1cm;
+  border-radius: 2em;
+  text-decoration:none;
+  text-align: center ;
+}
+
+.button-registro{
+  color: white;
+  text-decoration:none;
+}
+
+.button-registro2{
+  color: black;
+  text-decoration:none;
+}
+
+.button{
+  border: 3px solid white;
+  border-radius: 10px;
+  background-color:#572364;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 18px;
+  padding: 10px; 
+  text-decoration:none;
+}
+
+.footer{
+  background-color: #572364;
+  color: white;
+  text-align: center;
+  
+}
+.header{
+  background-color: #572364 !important;
+  height: 450;
+  color: white;
+  text-align: center ;
+}
+
+.sangria{
+  padding: 1cm;
+  
+}
+
+.color{
+  background-color: #775b7f;
+}
+
+.tex{
+    
+  text-align: center;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
